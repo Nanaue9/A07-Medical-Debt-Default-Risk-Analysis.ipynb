@@ -21,7 +21,7 @@ The analysis leverages comprehensive datasets from multiple reputable sources to
 	•	U.S. Census Bureau: Complements ACS data with additional demographic information.
 
 These datasets are integrated and analyzed using BigQuery to facilitate comprehensive multivariate analyses, enabling the identification of patterns and correlations that drive medical debt trends.
-
+https://datacatalog.urban.org/dataset/changing-medical-debt-landscape-united-states
 Motivation and Summary
 
 Motivation:
