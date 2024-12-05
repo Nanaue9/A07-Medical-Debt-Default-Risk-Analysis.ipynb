@@ -49,12 +49,7 @@ Our findings provide a comprehensive understanding of the multifaceted nature of
 
 Collaborators
 
-	•	Yanxu（Adam） Yang
-	•	Yucheng He
-	•	Jacob Rose
-	•	Kayla Candice Huang
-	•	Sanjal Atul Desai
-	•	Victoria Carlsten
+Yanxu(Adam) Yang, Yucheng He, Jacob Rose, Kayla Candice Huang, Sanjal Atul Desai, Victoria Carlsten
 
 These team members collaborated to collect, preprocess, analyze, and interpret the data, leveraging their diverse expertise to deliver a thorough and insightful analysis of medical debt trends and their underlying causes.
 
