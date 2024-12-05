@@ -52,6 +52,4 @@ Collaborators
 
 Yanxu(Adam) Yang, Yucheng He, Jacob Rose, Kayla Candice Huang, Sanjal Atul Desai, Victoria Carlsten
 
-These team members collaborated to collect, preprocess, analyze, and interpret the data, leveraging their diverse expertise to deliver a thorough and insightful analysis of medical debt trends and their underlying causes.
-
 By systematically addressing the complexities of medical debt through data-driven analysis, this project aims to contribute valuable insights that can shape future healthcare policies and financial support mechanisms, ultimately fostering a more equitable and financially secure healthcare environment for all Americans.
